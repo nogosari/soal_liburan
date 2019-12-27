@@ -1,8 +1,8 @@
-"""
+
 NAMA     : HARITS JAUZA FATHIFALDI
 NIM      : A11.2019.11745
 KELOMPOK : A11.4118
-"""
+
 
 import os,sys
 def soal1() :

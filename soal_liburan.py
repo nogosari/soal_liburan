@@ -23,7 +23,7 @@ def soal1() :
         print ("Output = ", split2[0])
     print("=======================================\n")
 
-def soal2() :
+def soal2() 
     print("SOAL LIBURAN - 2 \n")
     counts = dict()
     line = input('Masukkan Kalimat : ')
